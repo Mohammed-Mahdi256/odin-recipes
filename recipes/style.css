@@ -1,0 +1,28 @@
+body {
+    background-color: #F3FFBD;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+}
+
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+.ingredients-container {
+    text-align: center;
+}
+
+.ingredients{
+    display: inline-block;
+    margin: 30px;
+    text-align: left;
+}
+
+
+li {
+    margin: 8px;
+}

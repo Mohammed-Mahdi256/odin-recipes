@@ -1,0 +1,40 @@
+body {
+    background-color: #F3FFBD;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 110, 0);
+}
+
+h2 {
+    color: maroon;
+    
+}
+
+h3 {
+    color: rgb;
+}
+
+.menu {
+    text-align: center;
+}
+
+.food {
+    display: inline-block;
+    margin: 0px 30px;
+    text-align: left;
+}
+
+
+a {
+    color: #FF1654;
+}
